@@ -9,7 +9,8 @@ _directory structure will be soething like C:\Users\username\Documents\R\win-lib
 it will contain two jar
 * Rengine.jar
 * Rserver.jar
-## 
+## create a java Web project in the IDE of your choice ex-eclipse
+
 ```markdown
 ```
 ## 
