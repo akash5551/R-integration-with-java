@@ -135,19 +135,8 @@ public static void test1() throws RserveException {
 	    
 	}
 ```
-### 
+### create a Rintegration Object and run methods
 ```markdown
-```
-
-## 
-```markdown
-```
-## 
-```markdown
-```
-## 
-```markdown
-```
-## 
-```markdown
+		RJavaIntegration rconnect = new RJavaIntegration();
+		rconnect.test1();
 ```
