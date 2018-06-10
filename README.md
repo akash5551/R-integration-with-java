@@ -26,6 +26,10 @@ it will contain two jar
 ### the web lib looks like this
 ![give project name](/images/copy4.png)
 
+## create a java class 
+### give class name RIntegration
+![create project](/images/class2.png)
+
 
 ```markdown
 ```
