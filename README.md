@@ -17,8 +17,15 @@ it will contain two jar
 ### give a project name
 ![give project name](/images/create3.png)
 
-## create a java Web project in the IDE of your choice ex-eclipse
-![create project](/images/create1.png)
+## copy the R and Java integration jar to the project
+### copy the jar from the java directory of Rserver package
+![create project](/images/copy1.png)
+### paste the jar to the Web-lib
+![select Dynamic web project](/images/copy2.png)
+![select Dynamic web project](/images/copy3.png)
+### the web lib looks like this
+![give project name](/images/copy4.png)
+
 
 ```markdown
 ```
