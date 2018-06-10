@@ -11,8 +11,8 @@ it will contain two jar
 * Rserver.jar
 ## create a java Web project in the IDE of your choice ex-eclipse
 ![create project](/images/create1.png)
-![create project](/images/create2.png)
-![create project](/images/create3.png)
+![select Dynamic web project](/images/create2.png)
+![give project name](/images/create3.png)
 
 ## create a java Web project in the IDE of your choice ex-eclipse
 ![create project](/images/create1.png)
