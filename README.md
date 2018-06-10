@@ -87,6 +87,14 @@ connection = open(connection,"Ip addres",6311,"username", "password");
 ```markdown
 scriptloading(connection,"add.R");
 ```
+* contents of add.R
+_similary defines your own mwthod_
+```markdown
+myAdd=function(x,y){
+    sum=x+y
+    return(sum)
+}
+```
 * custom method to run code
 ```markdown
 int sum=funcall(connection,"myAdd",10,20).asInteger();
@@ -127,24 +135,10 @@ public static void test1() throws RserveException {
 	    
 	}
 ```
-### to connect to remote machine
+### 
 ```markdown
 ```
 
-```markdown
-
-	
-	
-	public static void main(String[] args) throws RserveException {
-	//test1();
-	//	test();	
-		Scanner in = new Scanner(System.in);
-		String str;
-		System.out.println("enter tweet you want to search");
-		str = in.next();
-		str = testtweetjson(str);
-	}
-```
 ## 
 ```markdown
 ```
