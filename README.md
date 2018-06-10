@@ -7,11 +7,8 @@ install.packages('Rserve')
 ## it will download some java jar in the package directory
 _directory structure will be soething like C:\Users\username\Documents\R\win-library\3.4\Rserve\java_
 it will contain two jar
-*Rengine.jar
-*Rserver.jar
-```markdown
-
-```
+* Rengine.jar
+* Rserver.jar
 ## 
 ```markdown
 ```
